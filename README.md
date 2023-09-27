@@ -1,2 +1,2 @@
-# infra
-For terraform exploration
+# terraform-review
+Terraform code for infrastructure setup
